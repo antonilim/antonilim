@@ -1,5 +1,8 @@
 # Hi 👋 I'm Antoni Lim (Tolim)
 
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=antonilim&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/antonilim)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antonilim&layout=compact&langs_count=7&theme=dracula)](https://github.com/antonilim)
+
 ## 🚀 About Me
 I am a **Fullstack Developer** with a passion for building scalable and efficient web applications. I specialize in both **Frontend** and **Backend** development, combining modern design with robust backend solutions. With a strong focus on **Odoo**. I enjoy turning complex problems into simple, beautiful, and intuitive solutions.
 Enthusiast who loves to automate workflows and create seamless digital experiences.
